@@ -1,2 +1,2 @@
 # AddingLink
-This project is helpful for creating a button and make it work to connect to any webpage.
+An android project for creating a webview in the application.
